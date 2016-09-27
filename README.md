@@ -1,1 +1,1 @@
-Step 1 of the workshop
+Step 2 of the workshop: Add a list of contacts
