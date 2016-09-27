@@ -3,3 +3,5 @@
 </h1>
 <md-input [(ngModel)]="title" placeholder="title">
 </md-input>
+
+<app-contact *ngFor="let contact of contacts" [contact]="contact"></app-contact>

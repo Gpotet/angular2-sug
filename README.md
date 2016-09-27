@@ -1,1 +1,2 @@
-Step 2 of the workshop: Add a list of contacts
+Step 3 of the workshop: 
+- Extract our contacts to a service
