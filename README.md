@@ -1,1 +1,1 @@
-Welcome to Angular2 SUG workshop! steps are on different branches
+Step 1 of the workshop
